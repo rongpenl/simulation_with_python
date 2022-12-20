@@ -21,3 +21,5 @@ For the bad code formatting in the book, I apologize too. There isn't much I can
 ## Additional support
 
 If you had any additional questions, feel free to create an issue or contact me directly. Thanks!
+
+Note that due to your device's computational capacity, some notebooks may not render directly in your browser. You can open them in [Google Colab](https://colab.research.google.com/) or locally.
