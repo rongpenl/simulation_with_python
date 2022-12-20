@@ -1,6 +1,6 @@
 # A Note on `Simulation with Python: Develop Simulation and Modeling in Natural Sciences, Engineering, and Social Sciences`
 
-Thank you for considering reading this book. As one of the authors, I really appreciate your interest. Before reading on, please read the following instructions to understand whether the book is for you or not. I apologize if you will feel the same way as Franklin did. 
+Thank you for considering reading [this book](https://www.amazon.com/Simulation-Python-Modeling-Sciences-Engineering-ebook/dp/B0BBPJQ3NY?). As one of the authors, I really appreciate your interest. Before reading on, please read the following instructions to understand whether the book is for you or not. I apologize if you will feel [the same way](https://www.amazon.com/Simulation-Python-Modeling-Sciences-Engineering-ebook/dp/B0BBPJQ3NY?ref_=ast_sto_dp#customerReviews) as Franklin did. 
 
 Thank you Franklin for leaving this review.
 
@@ -12,6 +12,6 @@ As I said in the introduction of this book:
 
 For various reasons, my point was not reflected in the book marketing, etc. The title proposed was `scientific simlation for the curious young`, which in my opinion reflects the authors' intention much more accurately. With the original intention, the content sacrifices some *respect for scientific progress* for easiness to understand, keeps code reduandancy so it is easier to follow. This book is not written for Python experts or researchers. I apologize again if the title misleads you. I hope you find this page before you made the purchasing decision.
 
-For the bad code formatting in the book, I apologize too. There isn't much I can do except to keep each line shorter if possible. Please find the formatted, tested code in this repository. 
+For the bad code formatting in the book, I apologize too. There isn't much I can do except to keep each line shorter if possible. Please find the formatted, tested code in this [repository](https://github.com/rongpenl/simulation_with_python). 
 
 If you had any additional questions, feel free to create an issue or contact me directly. Thanks!
